@@ -50,8 +50,8 @@ This project is licensed under The MIT License
 
 ## Deployed
 
-The walkthrough video link for this project
-
+The Heroku deployed link
+## https://text-text-editor-pwa.herokuapp.com/
 
 ## Questions
 
